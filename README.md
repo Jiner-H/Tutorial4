@@ -1,7 +1,7 @@
 # Tutorial4
 
 
-
+Add new line in line No.4 in branch1.
 changes on the same line5 in branch2.
 update from branch1 on line 5.
 
