@@ -8,3 +8,6 @@ update from branch1 on line 5.
 change form feature branch.//
 change from conflict branch!!!!!!!!
 add new line in line No.10 in branch2
+
+
+wrong text line needed to be handled
